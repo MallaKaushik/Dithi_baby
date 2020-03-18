@@ -24,7 +24,7 @@ section .slide:last-child{
     border-right: none;
 }
 section .slide:hover{
-    flex-grow: 3;
+    flex-grow: 5;
 }
 section .slide:nth-child(1){
     background-image: url(E:\Projects\birthday-counter-master\img\1.jpg);
